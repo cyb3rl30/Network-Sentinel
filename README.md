@@ -1,4 +1,4 @@
-# Network Sentinel Cyber Recon 🛡️
+# Network Sentinel 🛡️
 
 O **Network Sentinel** é uma ferramenta modular de OSINT (*Open Source Intelligence*) desenvolvida em Python. Projetada para automatizar a coleta de dados de alvos (domínios, e-mails ou CNPJs), sendo ideal para as fases iniciais de um Pentest ou para estudos de Cybersecurity.
 
