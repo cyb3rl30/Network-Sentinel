@@ -25,6 +25,7 @@ O **Network Sentinel** é uma ferramenta modular de OSINT (*Open Source Intellig
 📥 Instalação por Sistema
 
 🛠️ WINDOWS 11
+
 Instale o Python 3.
 
 No PowerShell/CMD, execute:
@@ -37,6 +38,7 @@ python Network-Sentinel.py
 ```
 
 🐉 KALI LINUX / DEBIAN
+
 Abra o seu terminal e execute:
 
 ```bash
@@ -48,6 +50,7 @@ python3 Network-Sentinel.py
 ```
 
 📲 TERMUX (ANDROID)
+
 No seu celular, abra o Termux e digite:
 
 ```bash
