@@ -6,7 +6,7 @@ O **Network Sentinel** é uma ferramenta modular de OSINT (*Open Source Intellig
 
 ## 🚀 Como Usar (Exemplos de Input)
 
-| Opção   | Módulo             | Exemplo de Input (O que digitar)                     
+ Opção   | Módulo              | Exemplo de Input (O que digitar)                     
 
  **[1]** | **Passive Recon**   | `google.com` ou `alvo.com.br`                        
 
@@ -26,15 +26,13 @@ O **Network Sentinel** é uma ferramenta modular de OSINT (*Open Source Intellig
 
 🛠️ WINDOWS 11
 
-Instale o Python 3.
-
 No PowerShell/CMD, execute:
 
 ```bash
 git clone https://www.google.com/search?q=https://github.com/cyb3rl30/Network-Sentinel.git
 cd Network-Sentinel
 pip install requests
-python Network-Sentinel.py
+python3 Network-Sentinel.py
 ```
 
 🐉 KALI LINUX / DEBIAN
