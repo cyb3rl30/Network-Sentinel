@@ -9,10 +9,15 @@ O **Network Sentinel** é uma ferramenta modular de OSINT (*Open Source Intellig
 | Opção   | Módulo             | Exemplo de Input (O que digitar)                     |
 
 | **[1]** | **Passive Recon**  | `google.com` ou `alvo.com.br`                        |
+
 | **[2]** | **Deep Harvester** | `seu-alvo@email.com`                                 |
+
 | **[3]** | **SSL/TLS Audit**  | `github.com` ou `site-seguro.com`                    |
+
 | **[4]** | **Business Audit** | `00000000000191` (Apenas números do CNPJ)            |
+
 | **[5]** | **File & History** | `projeto_secreto` ou `empresa_alvo`                  |
+
 | **[6]** | **FULL REPORT**    | `alvo@dominio.com` (Executa Recon + SSL + Harvester) |
 
 ---
