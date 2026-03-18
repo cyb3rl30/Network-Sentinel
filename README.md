@@ -29,7 +29,7 @@ O **Network Sentinel** é uma ferramenta modular de OSINT (*Open Source Intellig
 No PowerShell/CMD, execute:
 
 ```bash
-git clone https://www.google.com/search?q=https://github.com/cyb3rl30/Network-Sentinel.git
+git clone https://github.com/cyb3rl30/Network-Sentinel.git
 cd Network-Sentinel
 pip install requests
 python3 Network-Sentinel.py
@@ -41,7 +41,7 @@ Abra o seu terminal e execute:
 
 ```bash
 sudo apt update && sudo apt install git python3-pip -y
-git clone https://www.google.com/search?q=https://github.com/cyb3rl30/Network-Sentinel.git
+git clone https://github.com/cyb3rl30/Network-Sentinel.git
 cd Network-Sentinel
 pip3 install requests
 python3 Network-Sentinel.py
@@ -54,7 +54,7 @@ No seu celular, abra o Termux e digite:
 ```bash
 pkg update && pkg upgrade
 pkg install git python3 -y
-git clone https://www.google.com/search?q=https://github.com/cyb3rl30/Network-Sentinel.git
+git clone https://github.com/cyb3rl30/Network-Sentinel.git
 cd Network-Sentinel
 pip install requests
 python3 Network-Sentinel.py
